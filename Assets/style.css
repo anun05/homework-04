@@ -1,0 +1,35 @@
+
+.Start-Quiz p {
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+.Input {
+    text-align: center;
+}
+#Start-game {
+    font-size: 20px;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+}
+.Start-btn {
+    text-align: center;
+}
+
+#game-over {
+    display: none;
+    text-align: center;
+}
+
+.Pre { 
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+#Submit {
+    font-size: 20px;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+}
