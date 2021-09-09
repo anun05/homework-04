@@ -1,1 +1,6 @@
 # homework-04
+## Description
+My rmotivation for this assignment was trying to figure it out in the end. Although I really was not able too, I feel like everyday I am learning more and more material. The work I have been learning has been difficult and my grades may not be what I would want, but in the end I feel like I am learning a bit more everyday. The prokect was designed so we could develop skills that will teach us how to have functions rapdily working with out each. There is much more than just having questions appear and then solving them, there is logic being needed. The problem here that was being solved was how to communicate with the computer and making sure everything need was imported correctly. There is a lot more detail to this work, but in the end, it is mostly making sure JavaScript and the html work coherently as best as possible. What I learned throughout this assignment were the elements. I had to take steps back to understand a bit more of what each element was telling me/showing me what to do. I so still struggle, but the way I see it is I am doing better today, than what I did yesterday. 
+
+## Usage
+The use of this project is pretty easy I would say. It simply requires one to start the game button and answer some questions and in the end just record those answers. 
