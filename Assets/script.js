@@ -145,7 +145,7 @@ function submitScore() {
     }
   }
   console.log(scores);
-  //scores = 0;
+  score = 0;
   document.getElementById("pre").style.display = "block";
   document.getElementById("Start-game").style.display = "block";
 }
