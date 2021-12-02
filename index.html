@@ -1,30 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./assets/style.css" />
     <title>Code Quiz</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <div id="Start-Quiz" class="Start-Quiz"></div>
-        <div id = "Quiz"></div>
-        <div  id="time" class ="time"></div>
-        <div id = "view"><a href="highscores.html">View Scores</a></div>
+    <div id="Quiz"></div>
+    <div id="time" class="time"></div>
+    <div id="view"><a href="highscores.html">View Scores</a></div>
     <section>
-        <div id="pre">
-            <div id="preWork">
-                <h3>Info before starting</h3>
-            </div>
-            <div id="preWork-list">
-                <div class = "info">1. There is a timer for only 60 seconds/1 minute.</div>
-                <div class = "info">2. You will get points for the answers you get correct</div>
-                <div class = "info">3. Relax and choose the best answer!</div>
-            </div>
+      <div id="pre">
+        <div id="preWork">
+          <h3>Info before starting</h3>
         </div>
+        <div id="preWork-list">
+          <div class="info">
+            1. There is a timer for only 60 seconds/1 minute.
+          </div>
+          <div class="info">
+            2. You will get points for the answers you get correct
+          </div>
+          <div class="info">3. Relax and choose the best answer!</div>
+        </div>
+      </div>
     </section>
     <div id="questions-Input" class="Input"></div>
     <div class="Input">
@@ -32,13 +35,12 @@
     </div>
 
     <div id="game-over">
-        <label for="user-name">Enter your name</label>
-        <input type="text" id="user-name" name="user-name"><br><br>
-        <button id="Submit" class="Start-btn">Submit</button>
-        <button id="Start-game" class="Start-btn">Start Game</button>
+      <label for="user-name" id="label-name">Enter your name</label>
+      <input type="text" id="user-name" name="user-name" /><br /><br />
+      <button id="Submit" class="Start-btn">Submit</button>
+      <button id="Start-game" class="Start-btn">Start Game</button>
     </div>
 
-    <script type="text/javascript" src="./assets/script.js"></script>
-</body>
-
+    <script type="text/javascript" src="./Assets/script.js"></script>
+  </body>
 </html>

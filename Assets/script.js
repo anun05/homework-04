@@ -144,7 +144,8 @@ function submitScore() {
       localStorage.setItem("gameScores", JSON.stringify(scoresArray));
     }
   }
-  scores = 0;
+  console.log(scores);
+  //scores = 0;
   document.getElementById("pre").style.display = "block";
   document.getElementById("Start-game").style.display = "block";
 }
